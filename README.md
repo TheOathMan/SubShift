@@ -1,6 +1,6 @@
 # SubShift
 
-Script that shifts (delay/advance) subtitle time in a file or across an entire folder. Supported formats are .srt, .vtt, .sub, .sbv, .lrc, .ass and .ssa.
+Script that shifts (delay/advance) subtitle time in a file or across an entire folder. Supported files are .srt, .vtt, .sub, .sbv, .lrc, .ass and .ssa.
 
 
 ## How to use
@@ -9,9 +9,9 @@ Script that shifts (delay/advance) subtitle time in a file or across an entire f
 python SubShift.py <file_or_folder_path> <time_to_shift>
 ```
 
-*'file_or_folder_path' path to a file or a folder.
+* `file_or_folder_path` path to a file or a folder.
 
-*'time_to_shift' time to advance the subtitle or delay it. time can be 0.0 ,00:00:00.00 or 00:00:00,000(milliseconds) 
+* `time_to_shift` time to advance the subtitle or delay it. time can be 0.0 ,00:00:00.00 or 00:00:00,000(milliseconds) 
 
 
 ## Examples
