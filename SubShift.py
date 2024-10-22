@@ -115,7 +115,6 @@ def get_time(time_str):
 
 
 def main():
-    print(get_time(sys.argv[1]))
     if len(sys.argv) != 3:
         print("Usage: python SubShift.py <file_or_folder_path> <shift_seconds>")
         return
