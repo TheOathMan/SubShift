@@ -35,4 +35,4 @@ python SubShift.py "C:\subs\hello.srt" -1:00:03,500
 ```
 
 ## Note
-I tested the script in two file formats '.ass' and '.srt'. Other formates are supported because timestamp format in other file formats fall under these two. So make backup before using the script just in case.
+I tested the script in two file formats `.ass` and `.srt`. Other formates are supported because timestamp format in other file formats fall under these two. So make backup before using the script just in case.
